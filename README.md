@@ -1,6 +1,7 @@
 # Lab1Softwaretestmethod
 Lab1release
-[Test]
+
+            [Test]
             public void GetAddition_Input1point5and2point5_Returns4point0()
             {
                 //Arrange
